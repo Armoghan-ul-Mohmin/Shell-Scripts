@@ -4,7 +4,7 @@ Some Custom Shell Scriptc Written By Armoghan.
 # How to Clone my Project
       git clone https://github.com/Armoghan-ul-Mohmin/Shell-Scripts.git
 
-1st Script:Docker Install   
+# 1st Script:Docker Install   
 
    Main Menu
 1. Install Requirments
@@ -18,7 +18,7 @@ Some Custom Shell Scriptc Written By Armoghan.
 Select an Option:
 
 
-2nd Script:Impottant Stuff
+# 2nd Script:Impottant Stuff
 
    Main Menu            
 1.  Update
