@@ -1,37 +1,39 @@
 # Shell-Scripts
 Some Custom Shell Scriptc Written By Armoghan.
 
-########################################
-#             Docker Install           #   
-########################################
-# Main Menu                            #
-# 1. Install Requirments               #
-# 2. Install Docker                    #
-# 3. Test Docker                       #
-# 4. Pull SQL-Server Image             #
-# 5. Run SQL-Server image              #
-# 6. View Running Services in Docker   #
-# 7. Error log inside the container    #
-# 8. Connect to SQL Server             #
-#   Select an Option:                  #
-########################################
+1st Script:
 
-########################################
-#             Main Menu                #   
-########################################
-# 1. Update                            #
-# 2. Upgrade                           #
-# 3.  Neofetch                         #
-# 4.  Nams                             #
-# 5.  Snap                             #
-# 6.  Discord                          #
-# 7.  Sublime Text                     #
-# 8.  Notion                           #
-# 9.  Visual Studio Code               #
-# 10. Requirments For Docker           #
-# 11. Docker                           #
-# 12. Wine                             #
-# 13. Ngrok                            #
-# 14. Azure Data Studio                #
-#   Select an Option:                  #
-########################################
+#######################################
+             Docker Install            
+#######################################
+Main Menu
+1. Install Requirments
+2. Install Docker
+3. Test Docker
+4. Pull SQL-Server Image
+5. Run SQL-Server image
+6. View Running Services in Docker
+7. Error log inside the container
+8. Connect to SQL Server
+Select an Option:
+
+
+2nd Script:
+#######################################
+             Main Menu            
+#######################################
+1.  Update
+2.  Upgrade
+3.  Neofetch
+4.  Nams
+5.  Snap
+6.  Discord
+7.  Sublime Text
+8.  Notion
+9.  Visual Studio Code
+10. Requirments For Docker
+11. Docker
+12. Wine
+13. Ngrok
+14. Azure Data Studio
+Select an Option:
