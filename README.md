@@ -1,12 +1,9 @@
 # Shell-Scripts
 Some Custom Shell Scriptc Written By Armoghan.
 
-1st Script:
+1st Script:Docker Install   
 
-#######################################
-             Docker Install            
-#######################################
-Main Menu
+             Main Menu
 1. Install Requirments
 2. Install Docker
 3. Test Docker
@@ -18,10 +15,9 @@ Main Menu
 Select an Option:
 
 
-2nd Script:
-#######################################
+2nd Script:Impottant Stuff
+
              Main Menu            
-#######################################
 1.  Update
 2.  Upgrade
 3.  Neofetch
