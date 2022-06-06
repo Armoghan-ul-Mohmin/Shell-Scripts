@@ -1,9 +1,12 @@
 # Shell-Scripts
 Some Custom Shell Scriptc Written By Armoghan.
 
+#How to Clone my Project
+git clone https://github.com/Armoghan-ul-Mohmin/Shell-Scripts.git
+
 1st Script:Docker Install   
 
-             Main Menu
+   Main Menu
 1. Install Requirments
 2. Install Docker
 3. Test Docker
@@ -17,7 +20,7 @@ Select an Option:
 
 2nd Script:Impottant Stuff
 
-             Main Menu            
+   Main Menu            
 1.  Update
 2.  Upgrade
 3.  Neofetch
